@@ -1,0 +1,10 @@
+c:\users\shprei\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Automaty komórkowe.csprojAssemblyReference.cache
+c:\users\shprei\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\shprei\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\shprei\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Automaty komórkowe.csproj.GenerateResource.cache
+c:\users\shprei\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Automaty komórkowe.csproj.CoreCompileInputs.cache
+c:\users\shprei\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\shprei\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\shprei\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\shprei\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\shprei\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
