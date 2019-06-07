@@ -1,0 +1,10 @@
+C:\Users\Shprei\source\repos\Rekrystalizacja\Rekrystalizacja\obj\Debug\Rekrystalizacja.csprojAssemblyReference.cache
+C:\Users\Shprei\source\repos\Rekrystalizacja\Rekrystalizacja\obj\Debug\Rekrystalizacja.Form1.resources
+C:\Users\Shprei\source\repos\Rekrystalizacja\Rekrystalizacja\obj\Debug\Rekrystalizacja.Properties.Resources.resources
+C:\Users\Shprei\source\repos\Rekrystalizacja\Rekrystalizacja\obj\Debug\Rekrystalizacja.csproj.GenerateResource.cache
+C:\Users\Shprei\source\repos\Rekrystalizacja\Rekrystalizacja\obj\Debug\Rekrystalizacja.csproj.CoreCompileInputs.cache
+C:\Users\Shprei\source\repos\Rekrystalizacja\Rekrystalizacja\bin\Debug\Rekrystalizacja.exe.config
+C:\Users\Shprei\source\repos\Rekrystalizacja\Rekrystalizacja\bin\Debug\Rekrystalizacja.exe
+C:\Users\Shprei\source\repos\Rekrystalizacja\Rekrystalizacja\bin\Debug\Rekrystalizacja.pdb
+C:\Users\Shprei\source\repos\Rekrystalizacja\Rekrystalizacja\obj\Debug\Rekrystalizacja.exe
+C:\Users\Shprei\source\repos\Rekrystalizacja\Rekrystalizacja\obj\Debug\Rekrystalizacja.pdb

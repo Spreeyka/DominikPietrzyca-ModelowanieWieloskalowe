@@ -1,0 +1,10 @@
+C:\Users\Shprei\source\repos\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+C:\Users\Shprei\source\repos\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Users\Shprei\source\repos\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Users\Shprei\source\repos\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csprojAssemblyReference.cache
+C:\Users\Shprei\source\repos\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.Form1.resources
+C:\Users\Shprei\source\repos\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.Properties.Resources.resources
+C:\Users\Shprei\source\repos\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csproj.GenerateResource.cache
+C:\Users\Shprei\source\repos\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csproj.CoreCompileInputs.cache
+C:\Users\Shprei\source\repos\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.exe
+C:\Users\Shprei\source\repos\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.pdb
