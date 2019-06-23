@@ -1,0 +1,10 @@
+C:\Users\shprei\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Gra f życie.csprojAssemblyReference.cache
+C:\Users\shprei\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\shprei\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\shprei\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Gra f życie.csproj.GenerateResource.cache
+C:\Users\shprei\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Gra f życie.csproj.CoreCompileInputs.cache
+C:\Users\shprei\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\shprei\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\shprei\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\shprei\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\shprei\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
